@@ -5,4 +5,4 @@ This challenge was a reversing challenge.  An ELF executable was provided.  When
 
 I used Ghidra to review the assembly and also the decompiled code and python to brute force the chars in the kernel string.
 
-![alt text](https://github.com/jaemsz/CTFlearn/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/jaemsz/CTFlearn/blob/main/1003.png?raw=true)
